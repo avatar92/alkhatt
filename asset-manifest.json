@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/alkhatt/static/css/main.f4542167.chunk.css",
+    "main.js": "/alkhatt/static/js/main.9d666fac.chunk.js",
+    "main.js.map": "/alkhatt/static/js/main.9d666fac.chunk.js.map",
+    "runtime-main.js": "/alkhatt/static/js/runtime-main.378c305b.js",
+    "runtime-main.js.map": "/alkhatt/static/js/runtime-main.378c305b.js.map",
+    "static/js/2.4195672d.chunk.js": "/alkhatt/static/js/2.4195672d.chunk.js",
+    "static/js/2.4195672d.chunk.js.map": "/alkhatt/static/js/2.4195672d.chunk.js.map",
+    "index.html": "/alkhatt/index.html",
+    "precache-manifest.9b79c6aa3e6d5146462042fb9be524ba.js": "/alkhatt/precache-manifest.9b79c6aa3e6d5146462042fb9be524ba.js",
+    "service-worker.js": "/alkhatt/service-worker.js",
+    "static/css/main.f4542167.chunk.css.map": "/alkhatt/static/css/main.f4542167.chunk.css.map",
+    "static/js/2.4195672d.chunk.js.LICENSE.txt": "/alkhatt/static/js/2.4195672d.chunk.js.LICENSE.txt",
+    "static/media/homepage.css": "/alkhatt/static/media/IMG-3.f30d1843.jpg",
+    "static/media/index.css": "/alkhatt/static/media/FuturaLT-Oblique.50164d48.ttf",
+    "static/media/navbar.css": "/alkhatt/static/media/IMG-1.cfe81550.jpg",
+    "static/media/Logo-MOM.png": "/alkhatt/static/media/Logo-MOM.a3203686.png",
+    "static/media/alkhatt-logo.png": "/alkhatt/static/media/alkhatt-logo.357e9a5a.png",
+    "static/media/capjc-logo.png": "/alkhatt/static/media/capjc-logo.fa6976e3.png",
+    "static/media/dcaf-logo.png": "/alkhatt/static/media/dcaf-logo.b1e5c5d1.png",
+    "static/media/footer.css": "/alkhatt/static/media/footer-background.7871b2dc.jpg",
+    "static/media/inkube-logo.png": "/alkhatt/static/media/inkube-logo.eff33a3d.png",
+    "static/media/inkyfada-logo.png": "/alkhatt/static/media/inkyfada-logo.9bfdcc23.png",
+    "static/media/innovation-icon.png": "/alkhatt/static/media/innovation-icon.8d53750f.png",
+    "static/media/jaeidaty-logo.png": "/alkhatt/static/media/jaeidaty-logo.9549cf3f.png",
+    "static/media/osf-logo.png": "/alkhatt/static/media/osf-logo.032a02ba.png",
+    "static/media/plaidoyer-icon.png": "/alkhatt/static/media/plaidoyer-icon.aafd36b8.png",
+    "static/media/rsf-logo.png": "/alkhatt/static/media/rsf-logo.42dd6ea1.png",
+    "static/media/snjt-logo.png": "/alkhatt/static/media/snjt-logo.2c087252.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.378c305b.js",
+    "static/js/2.4195672d.chunk.js",
+    "static/css/main.f4542167.chunk.css",
+    "static/js/main.9d666fac.chunk.js"
+  ]
+}
