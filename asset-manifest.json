@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/alkhatt/static/css/main.f4542167.chunk.css",
+    "main.css": "/alkhatt/static/css/main.99a6c9df.chunk.css",
     "main.js": "/alkhatt/static/js/main.9d666fac.chunk.js",
     "main.js.map": "/alkhatt/static/js/main.9d666fac.chunk.js.map",
     "runtime-main.js": "/alkhatt/static/js/runtime-main.378c305b.js",
@@ -8,9 +8,9 @@
     "static/js/2.4195672d.chunk.js": "/alkhatt/static/js/2.4195672d.chunk.js",
     "static/js/2.4195672d.chunk.js.map": "/alkhatt/static/js/2.4195672d.chunk.js.map",
     "index.html": "/alkhatt/index.html",
-    "precache-manifest.9b79c6aa3e6d5146462042fb9be524ba.js": "/alkhatt/precache-manifest.9b79c6aa3e6d5146462042fb9be524ba.js",
+    "precache-manifest.bc5578028bb02fe9c5266d4b0c46769a.js": "/alkhatt/precache-manifest.bc5578028bb02fe9c5266d4b0c46769a.js",
     "service-worker.js": "/alkhatt/service-worker.js",
-    "static/css/main.f4542167.chunk.css.map": "/alkhatt/static/css/main.f4542167.chunk.css.map",
+    "static/css/main.99a6c9df.chunk.css.map": "/alkhatt/static/css/main.99a6c9df.chunk.css.map",
     "static/js/2.4195672d.chunk.js.LICENSE.txt": "/alkhatt/static/js/2.4195672d.chunk.js.LICENSE.txt",
     "static/media/homepage.css": "/alkhatt/static/media/IMG-3.f30d1843.jpg",
     "static/media/index.css": "/alkhatt/static/media/FuturaLT-Oblique.50164d48.ttf",
@@ -32,7 +32,7 @@
   "entrypoints": [
     "static/js/runtime-main.378c305b.js",
     "static/js/2.4195672d.chunk.js",
-    "static/css/main.f4542167.chunk.css",
+    "static/css/main.99a6c9df.chunk.css",
     "static/js/main.9d666fac.chunk.js"
   ]
 }

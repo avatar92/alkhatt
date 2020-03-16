@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "33fb14b8b5c8813ffc969cf242d3c58b",
+    "revision": "2f8b1770fe9ebfa7745349e1221dd6f7",
     "url": "/alkhatt/index.html"
   },
   {
-    "revision": "c503371c9c27cec69b15",
-    "url": "/alkhatt/static/css/main.f4542167.chunk.css"
+    "revision": "5503a921f520b2209164",
+    "url": "/alkhatt/static/css/main.99a6c9df.chunk.css"
   },
   {
     "revision": "0599bb576557d8eb18b6",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/alkhatt/static/js/2.4195672d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c503371c9c27cec69b15",
+    "revision": "5503a921f520b2209164",
     "url": "/alkhatt/static/js/main.9d666fac.chunk.js"
   },
   {

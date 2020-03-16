@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/alkhatt/precache-manifest.9b79c6aa3e6d5146462042fb9be524ba.js"
+  "/alkhatt/precache-manifest.bc5578028bb02fe9c5266d4b0c46769a.js"
 );
 
 self.addEventListener('message', (event) => {
